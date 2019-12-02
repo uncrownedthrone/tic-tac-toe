@@ -1,8 +1,8 @@
 import React from 'react'
-import HelloWorld from '../components/HelloWorld'
+import TicTacToe from '../components/TicTacToe'
 
 const HomePage = () => {
-  return <HelloWorld />
+  return <TicTacToe />
 }
 
 export default HomePage
